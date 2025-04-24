@@ -25,7 +25,7 @@ Follow the instructions below to set up the project locally:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/vibe-hero-section.git
+git clone https://github.com/yassin287/vibe-hero-section.git
 cd vibe-hero-section
 
 npm install
